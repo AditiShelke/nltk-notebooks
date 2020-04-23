@@ -21,6 +21,8 @@ These are meant to serve as a base for further experimentation, or for quickly r
 HTML version of the NLTK book available [here](https://www.nltk.org/book/).
 
 NLTK repository is available [here](https://github.com/nltk/nltk).
+
+Citation:
 ```
 Bird, Steven, Edward Loper and Ewan Klein (2009).
 Natural Language Processing with Python.  O'Reilly Media Inc.
