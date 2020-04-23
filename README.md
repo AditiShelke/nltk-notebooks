@@ -3,8 +3,9 @@
 Jupyter notebooks containing code snippets and their descriptions from the NLTK book.
 
 HTML version of the NLTK book available [here](https://www.nltk.org/book/).
+NLTK repository available [here](https://github.com/nltk/nltk).
 
-## Table of Contents
+## Contents
 
 1. Language Processing and Python
 2. Accessing Text Corpora and Lexical Resources
@@ -17,3 +18,9 @@ HTML version of the NLTK book available [here](https://www.nltk.org/book/).
 9. Building Feature Based Grammars
 10. Analyzing the Meaning of Sentences
 11. Managing Linguistic Data
+
+NLTK
+```
+Bird, Steven, Edward Loper and Ewan Klein (2009).
+Natural Language Processing with Python.  O'Reilly Media Inc.
+```
